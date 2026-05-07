@@ -174,9 +174,3 @@ cd sistema-de-gestao-de-ativos
 ```bash
 python main.py
 ```
-## Autores
-1. Giovanni Bruno Giovanelli
-2. Lucas Gabriel Genovezi
-3. Mateus Henrique Oliveira Vieira
-4. Thiago Henrique Bonierski
-5. Vitor Gabriel Gonçalves
